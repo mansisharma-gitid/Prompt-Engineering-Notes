@@ -1,0 +1,20 @@
+13. ToT
+Explore multiple reasoning paths.
+Generate → Evaluate → Choose.
+14. GoT
+Connect, combine, and refine multiple ideas.
+CoT = Line | ToT = Tree | GoT = Graph
+15. Choosing Technique
+Simple → Basic
+Multi-step → CoT
+Math → PoT
+Unreliable → Self-consistency
+Exploration → ToT
+Complex interconnected → GoT
+16. Trade-offs
+
+Advanced reasoning = more latency + tokens + cost.
+
+17. Key Idea
+Don't just ask for an answer.
+Design the reasoning process.
