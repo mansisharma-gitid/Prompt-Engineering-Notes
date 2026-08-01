@@ -1,0 +1,12 @@
+The 10 things to remember
+
+- Clear instructions → reliable output
+- Context gives the model necessary information
+- Convergent → more constraints
+- Divergent → more freedom
+- Few-shot → teach by examples
+- CoT → complex reasoning
+- ToT → explore alternatives
+- Temperature → control randomness
+- Tools/RAG → extend model capabilities
+- Evaluation + monitoring → production reliability
