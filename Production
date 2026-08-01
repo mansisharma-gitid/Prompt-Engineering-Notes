@@ -1,0 +1,31 @@
+Production
+24. Tool-Using Agents
+LLM + tools = can interact with external systems.
+Example: APIs, databases, weather.
+25. Least Privilege
+Give AI only necessary permissions.
+Fewer permissions → less risk.
+26. Confirmation
+Read-only → usually automatic.
+Destructive → confirm before execution.
+27. Error Handling
+
+Handle:
+
+Invalid input
+Tool/API failure
+Unexpected output
+
+Never pretend a failed action succeeded.
+
+28. Evaluation
+Create test dataset.
+Test prompt.
+Compare/score results.
+Regression-test changes.
+Monitor production.
+A/B test improvements.
+
+Remember:
+
+Design → Test → Deploy → Monitor → Improve
