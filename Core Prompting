@@ -1,0 +1,16 @@
+7. Zero-Shot
+Task without examples.
+8. Few-Shot
+Give examples to teach the pattern.
+9. Delimiters
+Separate instructions from data.
+Examples: ``` ````, XML, Markdown.
+10. CoT
+Break complex problem into steps.
+Use for multi-step reasoning.
+11. Self-Consistency
+Generate multiple reasoning paths.
+Choose the most consistent answer.
+12. PoT
+Use code for calculations.
+Better for precise math.
