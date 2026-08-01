@@ -1,0 +1,21 @@
+Model Control
+18. Parameters
+Prompt = what to do
+Parameters = how to generate
+19. Temperature
+Controls randomness.
+Low → predictable
+High → creative
+20. Top-p
+Controls the probability pool.
+Low → focused
+High → diverse
+21. Max Tokens / Stop
+Max tokens → maximum length
+Stop sequence → when to stop
+22. Penalties
+Frequency → reduce repetition.
+Presence → encourage new ideas.
+23. Prompt + Parameters
+Precise task → clear prompt + low randomness.
+Creative task → creative prompt + higher randomness.
