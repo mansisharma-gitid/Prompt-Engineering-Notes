@@ -1,0 +1,19 @@
+1. Prompt Engineering
+Designing instructions to control AI output.
+Goal: accurate + reliable + desired response.
+2. Model Differences
+Different models behave differently.
+Best practices: clear + specific + context + structure.
+3. Convergent vs Divergent
+Convergent: one correct answer → be specific.
+Divergent: many good answers → allow freedom.
+4. Roles
+System: rules/behavior.
+User: task/input.
+Assistant: response.
+5. System Prompt
+Defines role + goal + rules + constraints.
+Think: AI's constitution.
+6. User & Assistant
+User = current request.
+Assistant = response/example.
